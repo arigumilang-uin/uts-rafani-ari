@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.BelajarBahasa" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Tambahkan ini -->
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="fontFamily">@font/poppins</item> <!-- Untuk Material Components -->
+    </style>
+
+    <style name="Theme.BelajarBahasa" parent="Base.Theme.BelajarBahasa" />
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">LinguGo</string>
+    <string name="mascot_image">Ini adalah gambar maskot aplikasi</string>
+</resources>

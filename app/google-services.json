@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254851073610",
+    "project_id": "uts-ari-rafani",
+    "storage_bucket": "uts-ari-rafani.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254851073610:android:4998990b1ddb2c6be488b3",
+        "android_client_info": {
+          "package_name": "com.example.belajarbahasa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ_mytHFfFmUpK5vJDdoAS6Tv3ODOR80A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
